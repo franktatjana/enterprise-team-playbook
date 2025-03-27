@@ -69,7 +69,6 @@ Additionally, the industry addresses: **environmental sustainability**, **regula
 - [SVA Energy & Utilities](https://www.sva.de/de/solutions/big-data-analytics/energy-controlling)
 - [Sopra Steria Energy&Utilities](https://www.soprasteria.de/branchen/energy-utilities)
 - [Adesso Energiewirtschaft](https://www.adesso.de/de/branchen/energiewirtschaft/index.jsp)
-
   ---
 👋 Have something to add? Feel free to suggest links or ideas to expand this section.
 
