@@ -1,5 +1,5 @@
 # Energy
-The energy sector sits at the intersection of geopolitical influence, environmental responsibility, and technological transformation. It is characterized by capital-intensive infrastructure, long innovation cycles, and strict regulatory oversight. Unlike fast-moving digital industries, energy players must balance legacy operations with the push toward decarbonization, grid modernization, and decentralized production models. This creates a complex, risk-sensitive environment where strategic alignment and domain expertise are critical for driving meaningful change.
+The energy sector sits at the intersection of geopolitical influence,environmental responsibility, and technological transformation. It is characterized by capital-intensive infrastructure, long innovation cycles, and strict regulatory oversight. Unlike fast-moving digital industries, energy players must balance legacy operations with the push toward decarbonization, grid modernization, and decentralized production models. This creates a complex, risk-sensitive environment where strategic alignment and domain expertise are critical for driving meaningful change.
 
 
 ## Context
@@ -69,6 +69,7 @@ Additionally, the industry addresses: **environmental sustainability**, **regula
 - [SVA Energy & Utilities](https://www.sva.de/de/solutions/big-data-analytics/energy-controlling)
 - [Sopra Steria Energy&Utilities](https://www.soprasteria.de/branchen/energy-utilities)
 - [Adesso Energiewirtschaft](https://www.adesso.de/de/branchen/energiewirtschaft/index.jsp)
-  ---
+
+---
 👋 Have something to add? Feel free to suggest links or ideas to expand this section.
 
